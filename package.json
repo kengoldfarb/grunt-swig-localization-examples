@@ -1,0 +1,12 @@
+{
+	"name": "grunt-swig-localization-examples",
+	"version": "0.0.1",
+	"author": "Ken Goldfarb <hello@kengoldfarb.com>",
+	"license": "MIT",
+	"dependencies": {
+		"grunt-swig-localization": "~0.1.0",
+		"grunt-cli": "~0.1.13",
+		"grunt": "~0.4.5"
+	}
+
+}
